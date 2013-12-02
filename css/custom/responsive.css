@@ -1,0 +1,11 @@
+
+@media (max-width: 768px) {
+	section#work {
+		height: auto;
+	}
+}
+@media (max-width: 1200px) {
+	section#work {
+		height: auto;
+	}
+}
